@@ -2,7 +2,7 @@
 
 Interactive executive dashboard for campaign performance, lead generation and conversion analytics.
 
-## SUmmary
+## Summary
 
 This project presents a complete Marketing Analytics solution developed using Power BI and SQL Server.
 
