@@ -1,0 +1,15 @@
+# Power BI temporary files
+*.tmp
+*.bak
+*.log
+*.cache
+
+# Dataset cache
+DataMashup
+
+# Auto recovery
+AutoRecovery
+
+# Windows
+Thumbs.db
+Desktop.ini
