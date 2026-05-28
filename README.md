@@ -12,7 +12,7 @@ The project includes dimensional data modeling, KPI analysis, time intelligence 
 
 ## Dashboard Overview
 
-![Dashboard](images/dashboard_overwiew.png)
+![Dashboard](assets/images/dashboard_overwiew.png)
 
 The dashboard was designed to analyze marketing campaign performance through:
 
